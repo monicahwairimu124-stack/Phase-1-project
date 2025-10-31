@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [200~# Aircraft Risk Analysis Project
 
 ## Business Problem
@@ -58,3 +59,15 @@ Develop final recommendation report
 
 Contact
 For questions about this aircraft risk analysis, contact the data analysis team.
+=======
+# Phase-1-project
+The objecives of this project are:
+
+-Study and understand the data given
+
+-Asses aircraft safety records
+
+-Analyze maintance and operating cost
+
+-Recommend a low risk aircraft 
+>>>>>>> 725e5af8c817bf55a358cb1a2fc53462c5a781ab
