@@ -19,3 +19,7 @@
 - **Matplotlib & Seaborn** for visualizations
 - **Jupyter Notebook** for interactive analysis
 
+## Interactive dashboard
+
+Explore our aircraft risk analysis through this interactive Tableau dashboard:
+https://public.tableau.com/app/profile/monicah.wairimu/viz/TABLAEUPRESENTATIONT/Dashboard1?publish=yes
