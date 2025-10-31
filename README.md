@@ -19,11 +19,3 @@
 - **Matplotlib & Seaborn** for visualizations
 - **Jupyter Notebook** for interactive analysis
 
-Contact
-For questions about this aircraft risk analysis, contact the data analysis team.
-=======
-
--Analyze maintance and operating cost
-
--Recommend a low risk aircraft 
->>>>>>> 725e5af8c817bf55a358cb1a2fc53462c5a781ab
