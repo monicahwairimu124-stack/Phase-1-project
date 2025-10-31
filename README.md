@@ -1,8 +1,5 @@
 
-Aircraft Risk Analysis Project
-
-## Business Problem
-Our company is expanding into aviation operations and needs to identify the safest, lowest-risk aircraft for commercial and private operations to minimize financial and safety risks in our new aviation division.
+## Aircraft Risk Analysis Project
 
 ## Project Objectives
 - **Analyze aircraft safety records** from aviation safety databases
@@ -25,8 +22,6 @@ Our company is expanding into aviation operations and needs to identify the safe
 Contact
 For questions about this aircraft risk analysis, contact the data analysis team.
 =======
-
--Asses aircraft safety records
 
 -Analyze maintance and operating cost
 
